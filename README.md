@@ -1,5 +1,5 @@
 # Intern-training
 ## Housty Designs intern training for GIT 2023
-Link to Faraz Yassin github [here](#)  
-Link to Gavin Mangroo github [here](#)  
-Link to Nathan Budhu github [here](#)  
+1. Link to Faraz Yassin github [here](#)  
+2. Link to Gavin Mangroo github [here](#)  
+3. Link to Nathan Budhu github [here](#)  

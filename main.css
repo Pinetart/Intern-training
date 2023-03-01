@@ -6,6 +6,12 @@ html {
 
 body {
   font-family: "Roboto", sans-serif;
+  margin: 0px;
+}
+
+.content {
+  width: 1360px;
+  margin: auto;
 }
 
 /* Navbar-------------------------------------------------------------------------------------------------------------> */
@@ -290,34 +296,24 @@ h4 {
 }
 
 /* Contact css */
-
 .contact {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
-  margin: 50px 10px;
   background-color: hwb(203 87% 7%);
-  font-family: "Montserrat", sans-serif;
+  padding: 50px 0px;
+}
+.flex-content {
+  display: flex;
+  width: 1320px;
+  margin: auto;
 }
 
 .contact-image {
+  margin: auto;
   flex: 1;
-  max-width: 50%;
-  margin-right: 50px;
-}
-
-.contact-image img {
-  width: 100%;
-  height: auto;
-  border-radius: 10px;
 }
 
 .contact-form {
-  flex: 1;
-  max-width: 45%;
-  margin-right: 25px;
-  margin-bottom: 10px;
+  margin-left: 80px;
+  flex: 2;
 }
 
 .contact-form h2 {

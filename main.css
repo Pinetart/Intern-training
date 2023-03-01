@@ -12,6 +12,7 @@ body {
 .navbar {
   display: flex;
   justify-content: center;
+  background-color: #fcfcfc;
 }
 .navbar-container {
   display: flex;
@@ -67,7 +68,7 @@ body {
 .hero {
   background-image: url("./assets/back.jpg");
   background-size: cover;
-  background-position: 0% 70%;
+  background-position: 0% 90%;
   background-attachment: fixed;
   height: 50vh;
   display: flex;

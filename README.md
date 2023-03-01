@@ -1,5 +1,3 @@
 # Intern-training
-## Housty Designs intern training for GIT 2023
-1. Link to Faraz Yassin github [here](#)  
-2. Link to Gavin Mangroo github [here](#)  
-3. Link to Nathan Budhu github [here](#)  
+## Housty Designs intern training for HTML CSS 2023
+This repo is dedicated to learning and improving HTML knowledge of the 2023 interns.
